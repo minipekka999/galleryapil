@@ -1,24 +1,14 @@
-# galleryapil
-Gallety api with lazy loading..
+Для запуска проекта необходимо:
+Для начала необходимо установить все необходиммые модули. 
+Далее необходимо запустить приложение в консолие при помощи команды "npm start"
+Если консоль выдало:
 
-![изображение](https://github.com/minipekka999/galleryapil/assets/105938194/f5da6fa1-9fd7-4716-9bad-c2543517c54d)
+Note that the development build is not optimized.
+To create a production build, use npm run build.
 
-![изображение](https://github.com/minipekka999/galleryapil/assets/105938194/8621ebea-6685-4e96-bf64-eb9af8c093a6)
+webpack compiled successfully
 
-![изображение](https://github.com/minipekka999/galleryapil/assets/105938194/e8126247-1ede-474f-bcc4-e397044299d2)
+Значит проблем с запуском нет, и веб приложение запущенно.
 
-
-Setup to run
-
-    Download zip file
-    Extract the zip file
-    Open CD
-
-    type 
-    1. npm install
-    2. npm run build 
-
-
-Now open your browser and go to this address
-
-http://127.0.0.1:8000
+Описание:
+Приложение представляет собой Галерею изображения на React, целью которого является демонстрация ленивой загрузки изображений с использованием API Unsplash. В проекте реализованы современные практики React и веб-производительности, включая хуки, ленивую загрузку компонентов, измерение производительности и Intersection Observer.
