@@ -1,14 +1,23 @@
-Для запуска проекта необходимо:
-Для начала необходимо установить все необходиммые модули. 
-Далее необходимо запустить приложение в консолие при помощи команды "npm start"
-Если консоль выдало:
 
-Note that the development build is not optimized.
-To create a production build, use npm run build.
+![изображение](https://github.com/minipekka999/galleryapil/assets/105938194/a6ce7c97-72a9-4fc9-abee-7614cfae6a56)
+![изображение](https://github.com/minipekka999/galleryapil/assets/105938194/46c8e866-c5a0-4a85-a51b-0b3538d56aab)
+![изображение](https://github.com/minipekka999/galleryapil/assets/105938194/02f12ef6-1e81-411d-98ca-a39d8fa9b1e1)
 
-webpack compiled successfully
 
-Значит проблем с запуском нет, и веб приложение запущенно.
 
-Описание:
-Приложение представляет собой Галерею изображения на React, целью которого является демонстрация ленивой загрузки изображений с использованием API Unsplash. В проекте реализованы современные практики React и веб-производительности, включая хуки, ленивую загрузку компонентов, измерение производительности и Intersection Observer.
+
+Setup to run
+
+    Download zip file 
+    Extract the zip file
+    Goto that Path
+    Open terminal
+
+Type
+
+    1.  npm install
+    2. npm run build
+
+
+Open
+http://127.0.0.1:8000
